@@ -1,0 +1,13 @@
+Begin Sea with '我们将要开始一段海岛求生探险'
+Sea Option 2
+to continuethesea with '仍然留在海面等待救援'
+to island with '前往岛屿，寻找转机'
+continuethesea end
+island Option 3
+to fire with '生火'
+to water with '寻找淡水'
+to food with '寻找食物'
+fire end
+water end
+food then survive
+survive end

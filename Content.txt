@@ -1,0 +1,7 @@
+Sea 0 2
+Island 5 6
+continuethesea 3 4
+water 7 8
+fire 9 10
+food 11 12
+survive 13 14
